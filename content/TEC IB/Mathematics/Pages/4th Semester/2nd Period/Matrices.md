@@ -83,23 +83,39 @@ $$
 We do so by taking the rows of the first and putting them against the columns, so:
 
 $$
+
 \\begin{bmatrix}
-\\boxed2 \& \\boxed3 \& \\boxed1 \\
+
+\\boxed2 \& \\boxed3 \& \\boxed1 \\\\
+
 2 \& 2 \& 2
+
 \\end{bmatrix}
+
 \\times
+
 \\begin{bmatrix}
-\\boxed2 \& 2 \\
-\\boxed1 \& 1 \\
+
+\\boxed2 \& 2 \\\\
+
+\\boxed1 \& 1 \\\\
+
 \\boxed0 \& {-1}
+
 \\end{bmatrix}
+
 $$
+
 $$
+
 2(2)+3(1)+1(0)=4+3+0
 
 $$
+
 $$
+
 =7
+
 $$
 
 Therefore, this is the result of our first element.
