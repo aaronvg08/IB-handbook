@@ -1,0 +1,1 @@
+Integrity means protecting the completeness and accuracy of data. Data lacks integrity if its incomplete, out of date, or has been purposely or unintentionally altered.

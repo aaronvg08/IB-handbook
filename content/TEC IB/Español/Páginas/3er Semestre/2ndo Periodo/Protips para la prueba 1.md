@@ -1,0 +1,14 @@
+- No asumir que el/la escritor es autor o autora.
+    - Usar su apellido y ya, o referirse a la voz poética.
+- Hacer una interpretación rapidísima de la obra en la hoja extra.
+- Ver:
+    - [[Figura retórica|Figuras retóricas]].
+    - Elementos del formato.
+    - [[Decisión lingüística|Decisiones lingüísticas]].
+- Sin importar que, **siempre** discutir (en un poema):
+    - Título
+    - [[Voz lírica]]
+    - Intertextualidad (si hay)
+- No sobre interpretar
+    - Cuando tienes evidencia para demostrar un punto, estas interpretando.
+    - Cuando no tienes y te estas sacando cosas de ya sabes donde, entonces no.

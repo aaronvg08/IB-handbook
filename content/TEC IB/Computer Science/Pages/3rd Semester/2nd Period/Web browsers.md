@@ -1,0 +1,1 @@
+Web browsers are an example of [[Software|software]]. These are essential applications that enable users to access and navigate vast resources of the internet. Web browsers interpret HTML code to render web pages, displaying text, images, and multimedia content correctly.

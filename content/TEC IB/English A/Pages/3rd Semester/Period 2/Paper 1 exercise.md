@@ -1,0 +1,5 @@
+# Save the bees!
+
+# 3rd paragraph
+
+In addition to the sense of urgency conveyed in the text, it also gives the reader an impression of facility using language and visual elements. For instance, the use of adjectives such as “simply”, “easily”, among others. Furthermore, the option to donate is marked by three steps: “Choose amount”, “Your details”, and “Payment details”. These steps use simple language, two words short, and not full sentences. Visually, the section to make a donation is marked by three amounts as well: “£15”, “£30, “£60”; each button also has a friendly design that makes allusion to a bee hive. The use of the language and visual elements work together, presenting the action of donating as simple, quick, and friendly. As a result, this persuades the reader to become involved in the charity and contribute to it.

@@ -1,0 +1,1 @@
+The Accumulator (AC) is a component and register of the [[Central Processing Unit (CPU)]]. It is a special-purpose register used to store intermediate results of operations from the [[Arithmetic Logic Unit (ALU)|ALU]]. It can also be used as a temporary storage location for other data.

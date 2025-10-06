@@ -1,0 +1,1 @@
+This covers appropriate behavior in a digital world. Appropriate behavior includes using IT ethically, respecting society, the law and does not expose any person to threats, danger, or a contravention of their human rights.

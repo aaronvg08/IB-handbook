@@ -1,0 +1,1 @@
+Changeover refers to the process of putting the new system online and retiring the old one, in the case the old system is outdated or required to be replaced.

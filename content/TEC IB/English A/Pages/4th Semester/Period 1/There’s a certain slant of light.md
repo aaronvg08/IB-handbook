@@ -1,0 +1,17 @@
+- Search the poem for the following:
+    - Imagery
+        - “There's a certain Slant of light”
+        - “Winter Afternoons –”
+    - Symbolism
+        - “'Tis the seal Despair –”
+        - “An imperial affliction”
+    - Metaphor
+    - Personification
+        - “When it comes, the Landscape listens –”
+        - “Shadows – hold their breath –”
+    - Paradox
+        - “Heavenly Hurt, it gives us –”
+    - Tone
+        - Serious, reflexive, spiritual.
+    - Enjambent
+        - Pretty much everywhere

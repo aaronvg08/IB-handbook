@@ -1,0 +1,1 @@
+Binary is a [[Number systems|number system]] that is used for computers to represent strings of data. It is base 2, and its

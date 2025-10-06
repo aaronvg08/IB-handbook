@@ -1,0 +1,5 @@
+A constant and re-appearing theme in The Handmaid’s Tale is memory. The reader learns through Offred’s memories about what happened to the United States before it became Gilead, and what lead up to that. Not only that, but the story is revealed to be a reconstruction from memory.
+
+It’s important to note that the story is told through common day-to-day happenings that hint at how the process started. The reader is given these mundane moments instead of a straight-forward explanation because Offred cherishes normal moments that are currently impossible due to her current state. In a chapter she starts leading up to recall how she got caught trying to leave the country, but then she explicitly says she doesn’t want to talk about it, and then talks about a different story: the story of how Moira escaped. This lets the reader know how much she avoids bad memories in favor of mundane, happy ones.
+
+Also, when the story is revealed to be a reconstruction, Offred is revealed as an unreliable narrator.

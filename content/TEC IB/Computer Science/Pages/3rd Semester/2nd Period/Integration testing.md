@@ -1,0 +1,1 @@
+This is a way of doing [[Testing|testing]] for a program in an organization. Integration testing usually means testing the entire system at the same time to verify that all of its components work together correctly.

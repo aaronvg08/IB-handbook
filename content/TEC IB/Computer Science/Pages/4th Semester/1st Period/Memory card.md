@@ -1,0 +1,1 @@
+Memory cards are small, removable storage devices that are typically used in portable devices, such as smartphones, tablets, and digital cameras. They can come in a variety of sizes and capacities. Memory cards are very convenient for transferring files between devices and for backing up data.

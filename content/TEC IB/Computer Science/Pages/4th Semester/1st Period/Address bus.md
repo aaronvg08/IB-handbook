@@ -1,0 +1,1 @@
+The address bus is a component of a computer that communicates with the [[Central Processing Unit (CPU)]]. It is a pathway which carries memory addresses from the CPU to specify where data should be read or written from.

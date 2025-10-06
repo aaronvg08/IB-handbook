@@ -1,0 +1,1 @@
+The Read Only Memory (ROM) is a [[Computer organization|component]] of a computer and a part of the [[Primary memory|primary memory]]. It stores fundamental system instructions, such as the BIOS, which means it is not modifiable. It is non-volatile, which is to say the content isn't erased when the computer is turned off.

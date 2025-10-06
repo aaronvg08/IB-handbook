@@ -1,0 +1,1 @@
+Refers to an **old technology, hardware, computer system, or application program**. Such as system may still be in use because its data **cannot be converted to newer formats**, or its applications **cannot be upgraded**. Keeping a legacy system in operation involvers various maintenance challenges.

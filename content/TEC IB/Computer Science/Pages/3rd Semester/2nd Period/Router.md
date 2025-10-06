@@ -1,0 +1,1 @@
+Networking device that accepts incoming quanta of information, reads their destination address and distributes them across networks, according to a routing table or routing policy. A router identifies the destination of messages and sends them via an appropriate route and is used to forward data packets between networks.

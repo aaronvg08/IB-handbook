@@ -1,0 +1,1 @@
+This is a way of doing [[Testing|testing]] for a program in an organization. Unit testing involves testing individual parts of the system ('units') separate from each other.

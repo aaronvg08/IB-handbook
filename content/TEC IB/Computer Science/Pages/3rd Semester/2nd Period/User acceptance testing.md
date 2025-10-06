@@ -1,0 +1,1 @@
+This is a way of doing [[Testing|testing]] for a program in an organization, and it is usually the last and most important step of the entire testing process. It involves determining whether the system satisfies the customer's needs.

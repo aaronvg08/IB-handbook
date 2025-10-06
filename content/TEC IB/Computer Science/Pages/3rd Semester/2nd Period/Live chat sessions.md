@@ -1,0 +1,1 @@
+Live chat sessions is a way to provide user [[Documentation|documentation]]. Online support is a type of real time support that is extremely useful for emergency situations. A live chat technician will ask for the description of the occurring problem and try to present possible solutions.

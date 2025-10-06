@@ -1,0 +1,1 @@
+This is a way to implement a system into an organization. This is a very risky process since the new system is plugged in and the old one gets plugged out at the same time. There are dangers associated with this process if the new system doesn’t function as expected.

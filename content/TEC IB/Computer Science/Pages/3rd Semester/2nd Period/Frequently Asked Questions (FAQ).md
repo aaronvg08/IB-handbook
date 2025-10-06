@@ -1,0 +1,1 @@
+This is a way to provide user [[Documentation|documentation]]. FAQs are listed questions and answers, all supposed to give users answers to a common set of problems. These are useful in case a user has a common issue that they are trying to find a solution to. It can be regularly updated, too.

@@ -1,0 +1,1 @@
+Finance is the process of acquiring money and managing that money within a business. It is highly important since it ensures that a business' [[Liabilities|debts]] are paid and makes sure that the [[Retained profit|retained profit]] of a business is spent on things the business requires and help it grow.

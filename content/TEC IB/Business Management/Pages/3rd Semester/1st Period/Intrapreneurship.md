@@ -1,0 +1,1 @@
+Intrapreneurship is the process of creating products, services, and ideas for a business. It is different from [[Entrepreneurship|entrepreneurship]] because that one creates new businesses, while this one simply focuses on a business that already exists.

@@ -1,0 +1,1 @@
+Inconsistency occurs when information is duplicated in a database and only one copy is updated, therefore causing what its name states, inconsistency.

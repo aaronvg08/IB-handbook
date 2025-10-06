@@ -1,0 +1,1 @@
+It refers to the basic, unprocessed substances or resources that are used in manufacturing or production processes to create finished goods.

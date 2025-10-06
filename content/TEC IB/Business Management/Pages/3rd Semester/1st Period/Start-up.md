@@ -1,0 +1,1 @@
+A start-up is a business that has just legally come into being. It is the next step for [[Entrepreneurship|entrepreneurs]] to take when they are ready to take their business into the big leagues, and become big shots with the other big shots.

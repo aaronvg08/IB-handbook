@@ -1,0 +1,1 @@
+Accounting is the systematic process of recording, summarizing, analyzing, and reporting financial transactions of a business or organization. It provides insights into financial performance and condition, helping stakeholders make informed decisions.

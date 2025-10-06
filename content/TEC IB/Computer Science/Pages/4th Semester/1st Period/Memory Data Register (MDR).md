@@ -1,0 +1,1 @@
+The Memory Data Register (MDR) is a component and register of the [[Central Processing Unit (CPU)]]. It holds the data or instruction that is being transferred to or from primary memory.

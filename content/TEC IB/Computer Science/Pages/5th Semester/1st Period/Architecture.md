@@ -1,0 +1,1 @@
+Architecture refers to the design and organization of a computer system's hardware and software components. This includes the structure and functionality to perform calculations and other tasks.

@@ -1,0 +1,1 @@
+Price is the amount of money at which a certain product is sold. Aka, [[Revenue|revenue]].

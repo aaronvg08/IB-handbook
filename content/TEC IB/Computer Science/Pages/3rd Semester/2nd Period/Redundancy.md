@@ -1,0 +1,1 @@
+This is a way to prevent [[Data loss|data loss]]. It refers to duplication of storage devices and stored data of a computer system with the intention of securing the stored data. Failsafe method.

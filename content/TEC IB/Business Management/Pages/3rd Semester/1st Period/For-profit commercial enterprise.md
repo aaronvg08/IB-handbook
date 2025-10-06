@@ -1,0 +1,1 @@
+A for-profit commercial enterprise is a [[Commercial enterprise|commercial enterprise]] whose goal is to earn money and get filthy rich. There is nothing else, just money, and they care about nothing but money.

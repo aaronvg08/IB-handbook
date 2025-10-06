@@ -1,0 +1,1 @@
+Hardware or software network infrastructure that controls data flow access among network entities. The firewall is mainly used to offer protection and limit access to a network. The ideal firewall system consists of hardware and software components.

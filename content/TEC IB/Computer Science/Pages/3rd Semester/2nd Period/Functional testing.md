@@ -1,0 +1,1 @@
+This is a way of doing [[Testing|testing]] for a program in an organization. Functional testing refers to the testing of a specific function of a system, instead of testing the entire system as a whole.

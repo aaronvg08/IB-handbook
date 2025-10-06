@@ -1,0 +1,4 @@
+Software as a service (SaaS) is a cloud computing model where software applications are hosted and managed by a third-party provider and accessed by organizations through a [[Web browsers|web browser]] or a mobile app. SaaS eliminates the need for organizations to install and maintain software on their own devices, making it convenient and cost-effective.
+
+> [!example]
+> [Canva](https://www.canva.com/) is a graphic design platform that allows users to create social media graphics, presentations, posters, documents, and other visual content. It is accessible entirely through a browser, which makes it a SaaS.

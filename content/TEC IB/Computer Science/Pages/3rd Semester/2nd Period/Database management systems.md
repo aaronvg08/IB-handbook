@@ -1,0 +1,1 @@
+Database management systems (DBMS) are an example of [[Software|software]]. They are essential for creating, managing, and querying databases effectively, streamlining data processes. These systems help in organizing and structuring data in a way that facilitates easy creation and access.

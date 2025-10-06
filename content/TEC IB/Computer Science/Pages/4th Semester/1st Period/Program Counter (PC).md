@@ -1,0 +1,1 @@
+The Program Counter (PC) is a component and register of the [[Central Processing Unit (CPU)]]. Its purpose is to store the address of the next instruction to be executed. It is incremented automatically after each instruction is finished, pointing to the next one in the program's memory location.

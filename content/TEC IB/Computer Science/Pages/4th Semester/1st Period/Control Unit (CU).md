@@ -1,0 +1,1 @@
+The Control Unit (CU) is a component of the [[Central Processing Unit (CPU)]]. It is responsible for orchestrating the fetch-decode-execute cycle. Its primary functions include decoding and interpreting instructions fetched from memory and generating control signals to activate the appropriate hardware units within the CPU. 

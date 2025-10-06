@@ -1,0 +1,1 @@
+This is a way to deliver [[User training|user training]]. As the title says, it is getting a teacher and having them make the students learn how to use the application. It offers an interactive setting that promotes open and free discussion between students and the teacher. Direct interaction with the expert allows for ideas to be exchanged easily.

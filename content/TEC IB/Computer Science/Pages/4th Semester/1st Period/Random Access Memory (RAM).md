@@ -1,0 +1,1 @@
+The Random Access Memory (RAM) is a [[Computer organization|component]] of a computer and part of the [[Primary memory|primary memory]]. It is a general-purpose storage area that usually stores instructions and data of programs that are currently running. It is volatile, which means that when you turn off the system, everything stored inside gets erased.

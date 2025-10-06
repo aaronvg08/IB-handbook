@@ -1,0 +1,1 @@
+Equivalent of a post office that manages the flow of email in and out of the network, checks that an email address is valid, allows users to access their email, etc.

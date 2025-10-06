@@ -1,0 +1,1 @@
+Rendering is the process of generating an image from a model by executing a series of computational operations that transform 3D scene data into a 2D image the user can observe.

@@ -1,0 +1,1 @@
+When an individual uses an IT system to conceal their true identity. This can be beneficial, but it can also become an issue when the individual uses this to cyber-bully another person, commit illegal actions or crimes, hack computers, etc.

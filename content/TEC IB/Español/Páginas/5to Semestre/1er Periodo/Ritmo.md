@@ -1,0 +1,1 @@
+Se denomina ritmo a la sucesión regular y recurrente de elementos marcada por eventos opuestos o diferentes que se despliegan en el tiempo o en el espacio.

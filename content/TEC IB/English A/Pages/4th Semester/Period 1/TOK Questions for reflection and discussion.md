@@ -1,0 +1,5 @@
+- **What do we learn about through the study of a literary text? How is this different from what we learn through the study of a non-literary text?**
+- **How much of the knowledge we construct through reading a text is determined by authorial intentions, by the reader’s cultural assumptions, and by the purpose valued for a text in a community of readers?**
+- **Is not sharing a world view with an author an obstacle to understanding their text?**
+- **How far can a reader understand a text that was written in a context different from their own and which may have addressed a different audience?**
+- **How is the study of literature practical in your everyday life?**

@@ -1,0 +1,1 @@
+Graphic processing software is an example of [[Software|software]]. It provides tools to create and edit stunning images, enhancing visual creativity. With advanced digital painting features, users can bring their artistic visions to life through visual canvasses.

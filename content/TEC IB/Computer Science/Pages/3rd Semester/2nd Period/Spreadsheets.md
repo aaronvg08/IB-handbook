@@ -1,0 +1,1 @@
+Spreadsheets are an example of [[Software|software]]. They allow users to organize data efficiently in rows and columns for easy access and management. Key features such as formulas and functions enable users to perform complex calculations and analyze data effectively. Spreadsheets provide tools for creating charts and graphs, helping users to visualize data trends and insights.

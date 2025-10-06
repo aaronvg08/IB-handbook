@@ -1,0 +1,1 @@
+The Instruction Register (IR) is a component and register of the [[Central Processing Unit (CPU)]]. Its purpose is to hold the current instruction being executed, acting as a temporary holding area for the instruction before it is decoded and executed.

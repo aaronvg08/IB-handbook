@@ -1,0 +1,1 @@
+This is a way to prevent [[Data loss|data loss]]. It is normally good to have some physical copies of online data. It is used for fast data backup and data storage. Can store data permanently and are non-volatile. CDs, DVDs, USB.

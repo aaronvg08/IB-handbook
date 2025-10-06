@@ -1,0 +1,1 @@
+Computer-aided design (CAD software) are an example of [[Software|software]]. They allow for the creation of precision drawings that are essential in engineering and architectural design. Users can create intricate 3D models using CAD software, enhancing visual representation and design accuracy.

@@ -1,0 +1,1 @@
+Parallel processing is a computing technique in which multiple processors or cores within a computer, or across multiple machines, simultaneously execute different parts of a task or multiple tasks to improve the system's performance and efficiency.

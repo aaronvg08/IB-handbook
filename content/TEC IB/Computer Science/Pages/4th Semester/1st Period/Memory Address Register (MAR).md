@@ -1,0 +1,1 @@
+The Memory Address Register (MAR) is a component and register of the [[Central Processing Unit (CPU)]]. Its main objective is to store the address in memory of where the current piece of data or instruction is to be found or stored. The MAR directly interferes with the system's memory address bus.

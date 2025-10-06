@@ -1,0 +1,1 @@
+An opportunity cost is the potential cost of missing an opportunity by choosing one option over another, or choosing to sacrifice something. The opportunity cost of [[Sale of assets|selling assets]] is that any future production or revenue from that asset will be lost, for example.

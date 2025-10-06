@@ -1,0 +1,1 @@
+Share capital is a type of [[Equity capital|equity capital]] and a way to fund a business. It is money that is raised through the issue of shares to new investors on a stock market, so it is only accessible for businesses that are [[Publicly held company|publicly held]].

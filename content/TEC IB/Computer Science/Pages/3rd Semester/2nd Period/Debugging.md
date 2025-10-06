@@ -1,0 +1,1 @@
+Debugging in the context of computers and systems is the systematic process of finding and correcting the number of bugs in a computer program. Bugs usually refer to errors or ways the program shouldn't be behaving.

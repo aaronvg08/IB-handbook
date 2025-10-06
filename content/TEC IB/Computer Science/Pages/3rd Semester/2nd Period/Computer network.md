@@ -1,0 +1,1 @@
+Set of computer systems that are interconnected and share resources as well as data.

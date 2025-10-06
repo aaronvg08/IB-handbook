@@ -1,0 +1,1 @@
+How well an IT system functions. Computer failures cause data loss, time loss, money loss, injury or even death (in extreme cases). The reliability of IT systems determines confidence in their value.

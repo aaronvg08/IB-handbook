@@ -1,0 +1,1 @@
+Word processors are an example of [[Software|software]]. They enable users to text documents easily, offering diverse formatting options for professional appearance. Users can edit format documents using various tools, including font styles, sizes, and colors for better readability.

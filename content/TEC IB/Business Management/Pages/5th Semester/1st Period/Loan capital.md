@@ -1,0 +1,3 @@
+Ah, yes. Loan capital is a type of [[Debt capital|debt capital]] that can be used to finance a business. Loans can come in different sizes, though they are just money borrowed from a bank. A mortgage is a special type of long-term loan that is used to purchase land or buildings. Other bank loans are usually considered medium-term loans and may be used to purchase capital equipment.
+
+To get a loan, banks usually ask for collaterals. This is an asset that they can and will keep if you do not return the money. This asset has to be worth somewhat what you are borrowing, so that the bank can make sure they don't lose too much money.

@@ -1,0 +1,1 @@
+This is a way to implement a system into an organization. Both systems work in parallel for a short period of time. Outputs of both systems can be compared to ensure that the new system is functioning properly. If the new system fails, the company can revert to the old system.

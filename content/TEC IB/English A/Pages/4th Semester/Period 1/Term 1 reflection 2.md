@@ -1,0 +1,5 @@
+Things have been good so far. I think this might be one of the slower-paced periods so far. I was interested by the poetry we were going to review this period, but found it a bit difficult to interpret due to the multiple layers of metaphors and literary devices it uses. I think I got better as I practiced more, but I definitely still find it challenging.
+
+I was quite surprised when I realized that films count as non-literary texts. It was nice watching a movie in class and getting to analyze it later. For me it was very dynamic and fun even though if you’re only analyzing specific frames or pictures in it, and there’s lots to analyze from a film’s story and characters too.
+
+Finally, I think I’m getting better at writing paper 1s, although I did feel that last attempt wasn’t my best performance. I’ll try to improve and reduce flunks like that moving forwards. Although otherwise, I think I’m doing alright. There’s much more to cover, and also Mcbeth to read, which I’m intrigued by. Hopefully it won’t be as dense as I imagine, considering the Shakespearian English I’ll be facing.

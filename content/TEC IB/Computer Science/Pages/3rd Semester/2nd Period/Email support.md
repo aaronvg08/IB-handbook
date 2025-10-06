@@ -1,0 +1,1 @@
+Email support is a way to provide user [[Documentation|documentation]]. As the name says, it is the ability or constant monitoring of an e-mail address to be able to contact someone to solve a problem, bug, anything. 

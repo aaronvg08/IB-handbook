@@ -1,0 +1,1 @@
+This is a way to introduce a system into an organization. The new system is introduced in one of the sites and extended to other sites over time. The risk of this method is low and pilot sites can serve as models for the rest of the company.

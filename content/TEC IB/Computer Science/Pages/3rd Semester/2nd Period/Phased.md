@@ -1,0 +1,1 @@
+This is a way to implement a system into an organization. A company converts one module of the system at a time. Different parts of the system are converted at different times. The training period is extended and the adoption of the new system takes longer, since each phase must be implemented separately.

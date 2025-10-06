@@ -1,0 +1,1 @@
+It refers to a situation where different software entities or systems cannot operate satisfactorily, cooperatively or independently, on the same computer, or on different computer linked by a local or wide area computer network.

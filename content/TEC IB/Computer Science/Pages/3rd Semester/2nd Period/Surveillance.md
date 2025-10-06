@@ -1,0 +1,1 @@
+Using IT to control or monitor individuals or groups of people either with or without their knowledge or permission.

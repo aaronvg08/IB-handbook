@@ -1,0 +1,1 @@
+A subsidie is an amount of money a government provides to a business. It can be a way to [[Sources of finance|finance a business]], but not in the long term. These payments usually come in the form of "gifts" and are often used to increase or to stabilize production in critical industries.

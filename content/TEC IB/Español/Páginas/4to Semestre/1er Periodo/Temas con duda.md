@@ -1,0 +1,15 @@
+- Generos mayores
+- Algunos generos
+    - Revista
+    - Dramático
+    - Autosacramental
+- Unidades (aunque eran un poco obvias)
+- Acotaciones de distintos tipos
+- Soliloquio y monologo
+- Diferencia entre tensión dramatica y tensión teatral
+- Criterio TEMA
+    - Todas las preguntas
+- Dramaturga, teatrología, etc.
+- Escena, cuadors, y actos.
+- Ultima obra en roma
+- Reglas de el teatro clásico

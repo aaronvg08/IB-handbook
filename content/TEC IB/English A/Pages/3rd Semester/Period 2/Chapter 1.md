@@ -1,0 +1,30 @@
+- Read the first chapter in your small groups and find evidence of the following:
+    - Setting
+        - We slept in what **had once been** the gymnasium
+        - Dances **would have been** held there
+        - Old
+        - Dark, night
+    - Emotive language
+        - Nostalgia
+        - “We **yearned** for the future. How did we learn it, that talent for insatiability?”
+        - The Angels stood outside it with their backs to us. **They were objects of fear to us**
+        - “Dances would have been held there; the music lingered”
+        - If only we could talk to them. Somet
+        - hing could be exchanged, we thought, some deal made, some tradeoff, we still had our bodies. **That was our fantasy.**
+    - First person narrative
+        - **We** slept in what had once been the gymnasium
+        - If only we could talk to them. Something could be exchanged, we thought, some deal made, some tradeoff, we still had our bodies. **That was our fantasy.**
+    - Social hierarchy
+        - “Aunt Sara and Aunt Elizabeth patrolled; they had electric cattle prods slung on thongs from their leather belts.”
+        - “No guns though, even they could not be trusted with guns. Guns were for the guards, specially picked from the Angels.”
+        - Angels —> Guards —> Aunts —> People —> Handmaids
+    - Information about the past
+        - We had flannelette sheets, like children’s, and army-issue blankets, **old ones that still said U.S.**
+            - US is ‘outdated’ now.
+        - Almost the entirety of the first page
+        - “for the games that were **formerly played there;** the hoops for the basketball nets were still in place, though the nets were gone.”
+    - Evidence of control
+        - Angels having guns
+        - Aunts with electric cattle prods
+        - “In the army cots that had been set up in rows, with spaces between **so we could not talk.**”
+        - The Angels stood outside it with their backs to us. **They were objects of fear to us**

@@ -1,0 +1,1 @@
+This is a way of doing [[Testing|testing]] for a program in an organization. Alpha testing is done before the software product is made available to the general public. It will be carried out by the company that develops the software in a labratory-type environment, or with a select group of people.

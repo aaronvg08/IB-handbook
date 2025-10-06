@@ -1,0 +1,1 @@
+Flash drives, also known as USBs, are small, portable storage devices that can plug directly into a computer's USB port. They are convenient for transferring small to medium-sized files between computers. Flash drives are also relatively affordable.

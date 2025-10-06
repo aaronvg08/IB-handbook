@@ -1,0 +1,1 @@
+Ability to control how and to what extent data is used and disseminated to others. It includes issues such as: how long data is stored, who has access to the data and how the data is used.
