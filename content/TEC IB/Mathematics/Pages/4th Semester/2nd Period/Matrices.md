@@ -83,39 +83,22 @@ $$
 We do so by taking the rows of the first and putting them against the columns, so:
 
 $$
-
-\\begin{bmatrix}
-
-\\boxed2 \& \\boxed3 \& \\boxed1 \\\\
-
-2 \& 2 \& 2
-
+A\\cdot B=\\begin{bmatrix}
+7 \& 6 \\
+2(2)+2(1)+2(0) \& 2(2)+2(1)+2(-1)
 \\end{bmatrix}
-
-\\times
-
-\\begin{bmatrix}
-
-\\boxed2 \& 2 \\\\
-
-\\boxed1 \& 1 \\\\
-
-\\boxed0 \& {-1}
-
+$$
+$$
+A\\cdot B=\\begin{bmatrix}
+7 \& 6 \\
+4+2+0 \& 4+2-2
 \\end{bmatrix}
-
 $$
-
 $$
-
-2(2)+3(1)+1(0)=4+3+0
-
-$$
-
-$$
-
-=7
-
+A\\cdot B=\\begin{bmatrix}
+7 \& 6 \\
+6 \& 4
+\\end{bmatrix}
 $$
 
 Therefore, this is the result of our first element.
