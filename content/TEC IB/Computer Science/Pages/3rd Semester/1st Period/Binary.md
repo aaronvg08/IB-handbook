@@ -52,10 +52,12 @@ $$0|1100|1011$$
 
 Then we do each individually.
 
-$$\begin{matrix}  
+$$
+\begin{matrix}  
 0&|&1100&|&1011\\  
 0&&C&&B  
-\end{matrix}$$
+\end{matrix}
+$$
 
 So, it’d be $0CB_{16}$ .
 
