@@ -14,8 +14,8 @@ So, it’s the same as decimal but with different digits.
 So, let’s imagine we’re adding $BCEAF_{16}+312_{16}$:
 
 $$
-\begin{matrix}  
-&&1&&1\\  
+\begin{matrix}
+&&1&&1\\
 &B&C&E&A&F \\  
 +&&&3&1&2 \\  
 \hline  
