@@ -57,12 +57,14 @@ $$00011100>>11100011$$
 
 Now we have 11100011. Now we add a one in the following way:
 
-$$\begin{matrix}  
+$$
+\begin{matrix}  
 &1&1&1&0&0&0&1&1 \\  
 +&&&&&&&&1 \\  
 \hline  
 &1&1&1&0&0&1&0&0  
-\end{matrix}$$
+\end{matrix}
+$$
 
 So, signed $11100100_{2}=-28_{10}$.
 
