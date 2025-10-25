@@ -1,4 +1,3 @@
-
 ![[TEC IB/Computer Science/Images/Untitled.png]]
 
 ---
@@ -50,3 +49,5 @@
 ## 2nd Period
 
 - [[Trace table]]
+- [[Abstract data structures]] (HL except [[Array|arrays]])
+- [[Networks]]

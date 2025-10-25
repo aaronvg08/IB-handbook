@@ -9,7 +9,9 @@ Assets are resources with economic value (also rights) used to generate profit. 
 
 Also, in a [[Statement of financial position|balance sheet]], the following formula is used:
 
-$$ Assets = Liabilities + Equity $$
+$$ 
+Assets = Liabilities + Equity 
+$$
 
 # Current vs non-current
 

@@ -40,7 +40,7 @@ Compatibility issues can arise when running or being involved in an organization
 - [[Business merger]]
 - [[Language differences]]
 
-# Strategies for integration
+## Strategies for integration
 
 - Keep both information systems, and develop them to have the same functionality (high maintenance cost).
 - Select the best information systems from each company and combine them (it is very difficult for the employees to work with information systems from another company)
@@ -119,7 +119,7 @@ There are multiple things that constitute a computer system, or a machine. These
 - [[Hardware]]
 - [[Software]]
 - [[Peripheral devices]]
-- [[Computer network]]
+- [[Networks]]
 
 >[!tip]
 >These are more thoroughly explained in [[Computer organization|computer organization]].

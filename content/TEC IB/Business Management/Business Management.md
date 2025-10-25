@@ -15,40 +15,48 @@
 - [[Business objectives]]
 - [[SWOT analysis]]
 - [[Stakeholders]]
-- (Needs edits from here)
 - [[Growth and Evolution]]
 
 ## 2nd Period
 
 - [[Ansoff matrix]]
-- [[Multinational companies]]
-- [[Hofstede’s cultural dimension]]
-- [[Human resource management]]
+- [[Multinational companies (MNCs)]]
 - [[Force field analysis]]
+- [[Introduction to human resource management (HRM)]]
 - [[Organizational structure]]
-- [[Descriptive statistics]]
+- [[Leadership and management]]
 
 ## 3rd Period
 
-- [[Leadership styles]]
 - [[Motivation and demotivation]]
+- [[Recruitment]]
 - [[Labor turnover]]
+- [[Training]]
 - [[Organizational culture]]
+- [[Hofstede’s cultural dimensions]]
 
 # 4th Semester
 
 ## 1st Period
 
 - [[Communication]]
-- [[Simple linear regression]]
-- [[Gantt Chart]]
 - [[Industrial-employee relations]]
-- [[Critical path analysis]]
+- [[Introduction to marketing]]
+- [[Boston consulting group (BGC) matrix]]
+- [[Marketing planning]]
+- [[Porter's generic strategies]]
 
 ## 2nd Period
 
-- [[Marketing]]
-- [[Market exercises]]
+- [[Sales forecasting]]
+- [[Simple linear regression]]
+- [[Market research]]
+- [[Descriptive statistics]]
+
+## 3rd Period
+
+- [[Marketing mix]]
+- [[International marketing]]
 
 # 5th Semester
 
@@ -63,3 +71,7 @@
 ## 2nd Period
 
 - [[Profitability ratios]]
+- [[Liquidity ratios]]
+- [[Efficiency ratios]]
+- [[Insolvency & bankruptcy]]
+- [[Cash flow]]

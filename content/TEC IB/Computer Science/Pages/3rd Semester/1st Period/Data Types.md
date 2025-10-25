@@ -1,5 +1,6 @@
+Data types are things we can store data in a computer and in a program. Can be one value, or multiple values, depending on what data type you are using.
 
-Data types are ways we can store data in a computer and in a program. Can be one value, or multiple values, depending on what data type you are using.
+- **Variables:** In computer science, variables act as a storage location that can be used to store a value. Each variable has a name used to refer to the stored value. The value can be changed during program execution.
 
 # Main data types
 

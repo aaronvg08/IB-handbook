@@ -25,10 +25,10 @@ A system of equations that are of two unknowns can be interpreted as two linear 
 
 Similarly, if we have a system of equations of three unknowns, it is as if the lines from before had gone into the 3D world. In this case, the point where all three planes intersect is a solution. So, if a system has infinite solutions, they must be the same plane. If they have no solutions, they must be parallel. This can be seen below.
 
-![[plane solutions.png|center|700]]
+![[plane solutions.png|center|650]]
 
 >[!note]
->This is explored further in [[Vectors (math)|vectors]]!
+>This is further explored in [[Plane|planes]]!
 
 # Methods
 

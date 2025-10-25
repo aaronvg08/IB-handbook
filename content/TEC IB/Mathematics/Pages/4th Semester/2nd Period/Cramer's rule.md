@@ -19,8 +19,8 @@ x  & & y
 \end{matrix} }=a_{1}b_{2}-b_{1}a_{2}
 $$
 
->[!note]
->If the determinant is 0, then the system either has no solutions or infinitely many solutions. Getting the determinant of a system can help you prove if it has or not solutions.
+>[!important]
+>If the determinant is 0, then the system either has no solutions or infinitely many solutions. Getting the determinant of a system can help you prove if it has solutions or not.
 
 And the determinant of a variable by excluding the variable's coefficients and adding the extra value at the end, like so.
 
@@ -45,7 +45,7 @@ $$
 
 Both of these, where an equation looks like $a_{1}+b_{2}=c_{1}$. And by $i$, it means the $c$ values.
 
->[!tip]
+>[!note]
 >This can be used for systems of 2x2 and 3x3, but it gets very lengthy and can cost you time. At least be assured that this is the method that the calculator uses.
 
 # Example
@@ -153,7 +153,7 @@ $$
 \end{cases}
 $$
 
-We can get the determinant by using the [[Matrices#Determinant#3x3|3x3 determinant method]].
+We can get the determinant by using the [[Determinant|3x3 determinant method]].
 
 $$
 \Delta=\begin{vmatrix}

@@ -7,5 +7,5 @@ a = \frac{\Delta v}{\Delta t}=\frac{v_{2}-v_{1}}{t_{2}-t_{1}}
 $$
 
 > [!info]
-> The units for acceleration are $\frac{ms^{^-1}}{s}$. This is sometimes written as $ms^{^-2}$.
+> The units for acceleration are $\frac{m}{s^{2}}$. This is sometimes written as $ms^{^-2}$.
 

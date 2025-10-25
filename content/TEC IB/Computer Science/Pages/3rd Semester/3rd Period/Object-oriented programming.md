@@ -1,0 +1,3 @@
+Object-oriented programming is a type of programming that uses [[Thinking abstractly|abstraction]], and it's based on the principle that all everyday tasks can be considered as entities, or objects. These entities can be described with data (properties) and can do things (methods).
+
+By using object-oriented programming, you make complex ideas more simple by [[Thinking abstractly|thinking abstractly]]. It also facilitates code reusability and makes complex software faster and easier to develop, facilitating maintenance as well.

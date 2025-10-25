@@ -1,0 +1,5 @@
+David McClelland was an expert in human [[Motivation and demotivation|motivation]]. His theory claims that motivation lies in three dominant forces: achievement, power, and affiliation.
+
+- **Achievement**: Employees who tend to be motivated more by achievement will want appropriate levels of challenge in their work. They will be motivated by mastering a skill and will appreciate receiving feedback. If their work is too boring, they get demotivated.
+- **Power**: Employees who tend to be motivated more by power will want opportunities to exercise influence. It can be teaching another employee, but it could be negative if they use their power at the expense of others.
+- **Affiliation**: Employees like to have friends, and to be friends with each other. They like when people are supporting of them, and dislike when they have trouble socially.

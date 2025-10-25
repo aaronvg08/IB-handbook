@@ -1,4 +1,4 @@
-A decision tree, also called a probability tree, is a visual decision-making tool that helps businesses evaluate different options by estimating values and probabilities.
+A decision tree, also called a probability tree, is a visual decision-making toolkit that helps businesses evaluate different options by estimating values and probabilities.
 
 In order to make a decision tree, you need to do the following:
 
@@ -78,4 +78,4 @@ After all of this, we must indicate the values we have found on the tree.
 
 ![[solved decision trees.png|center|500]]
 
-So, after all of this, we can conclude that the best choice is to not expand, since the final result is bigger than the other ($\$8.8\;million>\$5.2\;million$).
+So, after all of this, we can conclude that the best choice is to not expand, since the final result is bigger than the other ($\$8.8\;\text{million}>\$5.2\;\text{million}$).

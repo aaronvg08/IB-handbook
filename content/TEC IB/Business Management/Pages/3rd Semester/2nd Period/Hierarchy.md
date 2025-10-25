@@ -1,0 +1,4 @@
+Hierarchy in an [[Organizational structure|organizational structure]] refers to the number of layers of authority within an organization. That is, the number of layers that exist between the Chief Executive and a shop-floor employee.
+
+- Some organizations that have many levels have a tall (vertical) organizational structure. In those ones, the span of control is narrow and the communication flows from top down.
+- Other organizations have fewer levels of hierarchy, with a flat (horizontal) organizational structure. Decision-making is delegated to employees, and the span of control is wide. Communication flows from top down and bottom up.z

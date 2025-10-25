@@ -3,3 +3,15 @@ Profitability ratios are ways to analyze and/or calculate how profitable a compa
 >[!note]
 >Profitability ratios are also important for helping investors decide whether or not to invest in the business.
 
+# Gross profit margin (GPM)
+
+![[Gross profit margin (GPM)]]
+
+# Profit margin (PM)
+
+![[Profit margin (PM)]]
+
+# Return on capital employed (ROCE)
+
+![[Return on capital employed (ROCE)]]
+

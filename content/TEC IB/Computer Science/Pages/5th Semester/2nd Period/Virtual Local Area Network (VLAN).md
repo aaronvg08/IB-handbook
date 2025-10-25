@@ -1,0 +1,3 @@
+A virtual local area network (VLAN) is a type of [[Networks|network]], more specifically, a [[Local Area Network (LAN)|local area network (LAN)]] that partitioning the initial LAN into segments, where each segment creates a logical separated network. This is very useful because it allows a company less hardware and a multiple network infrastructure.
+
+![[virtual local area network (vlan).png|center|500]]

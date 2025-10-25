@@ -10,7 +10,7 @@ All business need money to start their operations:
 
 The following formula is used when making a [[Statement of financial position|balance sheet]]. 
 
-$$ Assets = Liabilities + Equity $$
+$$ \text{Assets} = \text{Liabilities} + \text{Equity} $$
 
 # Accounting and Finance
 

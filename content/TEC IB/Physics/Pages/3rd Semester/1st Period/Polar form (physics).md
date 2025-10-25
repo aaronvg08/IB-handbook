@@ -4,28 +4,7 @@ $$
 \vec{A}=\sqrt{ 325 }\angle33.69°
 $$
 
-```tikz
-\usetikzlibrary{angles}
-\begin{document}
-  \begin{tikzpicture}[domain=0:4]
-    \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9);
-    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
-    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$y$};
-    
-    \coordinate (a) at (0,0);
-    \coordinate (b) at (3,3);
-    \coordinate (c) at (4.2,0);
-    
-    \draw[->, thick] (0, 0) -- (3, 3);
-    
-    \draw (1, 2) node [black] {\textbf{$\sqrt{325}$}};
-    \draw (0.7, 0.3) node [black] {\textbf{$\theta$}};
-    
-    \pic[draw] {angle=c--a--b};
-    
-  \end{tikzpicture}
-\end{document}
-```
+![[polar form.png|center|200]]
 
 $$
 \theta=33.69°

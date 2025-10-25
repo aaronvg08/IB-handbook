@@ -1,0 +1,5 @@
+Deci and Ryan's self-determination theory is a [[Motivation and demotivation|motivational]] theory that focuses on the powers of intrinsic motivation. Deci and Ryan described three factors that drive intrinsic motivation: autonomy, competence and relatedness.
+
+- **Autonomy**: In the workplace, an employee should be able to have some control over their work. What they do, how, when, and for who. The implication for managers is that, wherever possible, they should provide autonomy for their individual workers and teams.
+- **Competence**: Employees should have a feeling of capability to do things in te world. It involves a sense of achievement and mastery of skills. Their work shouldn't be too easy. It should be challenging and rich in experience for them to become better.
+- **Relatedness**: Employees should have a feeling of connection with other people and a sense of belonging to a group. In the workplace, employees feeling a sense of relatedness would have strong collaborative and positive relationships with colleagues.

@@ -1,0 +1,4 @@
+The chain of command in a [[Organizational structure|business' structure]] is the line of authority and responsibility along which orders are passed from one person to another. To ensure efficiency and effective decision-making, the chain of command in an organization should be clear.
+
+- An organization with many levels of hierarchy will have a long chain in command. Communication takes a long time to reach the bottom layer, slowing down the process of reacting to issues.
+- Organizations with fewer levels of hierarchy will have a short chain of command. There, communication flows faster, which allows faster reaction to issues with products and makes the organization more efficient in dealing with problems.

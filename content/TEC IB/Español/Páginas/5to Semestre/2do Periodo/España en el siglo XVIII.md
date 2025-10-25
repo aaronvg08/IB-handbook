@@ -54,3 +54,37 @@
 
 - Consideraba la vida como incierta, fugaz, por lo que recomendaba aceptarla con moderación y lucidez, sin ilusiones absolutas.
 - Inaugura al ensayo como un género para explorar la subjetividad y la experiencia personal.
+
+## Género
+
+- Honor y reputación.
+- Conceptos ligados tanto a hombres como mujeres.
+	- Pero mucho más impuestos en ellas.
+- Rosaura representa el cruce entre subversión y normatividad.
+- Encierra tensiones del Barroco:
+	- Mujer disfrazada de hombre.
+	- Activa en la trama.
+	- Conducida hacia el matrimonio.
+
+## Comedia nueva
+
+- Nombre que Lope de Vega dió al modelo ed teatro del Siglo de Oro.
+- No significa comedio como género cómico, sino como drama en tres actos que mezcla lo trágico y lo cómico.
+
+## Estamento
+
+- Cada uno de los grupos sociales cerrados que existían en las sociedades del Antiguo Régimen (España Siglo XVII).
+- Determinado por nacimiento, con privilegios, deberes y funciones específicas, del cual era prácticamente imposible salir.
+- Cada uno de los grupos sociales cerrados que existían en las sociedades del Antiguo Régimen (España Siglo XVII).
+- Determinado por nacimiento, con privilegios, deberes y funciones específicas, del cual era prácticamente imposible salir.
+
+Las clases sociales estaban altamente marcadas. 
+
+- **Nobleza**: Encargada del gobierno
+- **Clero**: Responsable de lo espiritual y de la educación.
+- **Pueblo llano**: campesinos, artesanos, comerciantes, sin privilegios.
+
+## Decoro
+
+- Principio estético que exigía que los personajes hablaran y actuaran según su estamento y condición.
+- Honra y honor como valor supremo que determinaba el lugar social; perderlo significaba la ruina.

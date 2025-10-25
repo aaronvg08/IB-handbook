@@ -43,12 +43,60 @@ $$
 
 ![[Acceleration]]
 
+# URM
+
+![[Uniform Rectilinear Motion (URM)]]
+
+# UARM
+
+![[Uniformly Accelerated Rectilinear Motion (UARM)]]
+
 # Graphs
 
 Graphs can be used in lots of ways to represent data. What they mean heavily depends on the units the $x$ and $y$ axis are using.
 
-## Velocity
-
 When you are talking about a graph of position/time, you can have something like this:
 
 ![[velocity graph.png|center|450]]
+
+In order to get instantaneous velocity of an object, you use the following formula.
+
+$$
+m_{v}=\frac{\text{pos}_{2}-\text{pos}_{1}}{\text{time}_{2}-\text{time}_{1}}
+$$
+
+Where the position and time are the start and ending points of a line where your point is. In order to get the average velocity, you use the following formula.
+
+$$
+\text{Av. velocity} =\frac{\text{d}}{t}
+$$
+
+Where $d$ is the total [[Displacement|displacement]] and $t$ is the time from the entire graph.
+
+In case you want the instantaneous and average [[Speed|speed]] instead, you can use the following formulas instead, respectively.
+
+$$
+m_{s}=|m_{v}|
+$$
+$$
+\text{Av. speed} = \frac{\text{Total distance}}{t}
+$$
+
+>[!note]
+>This applies for all other sorts of graphs too! Just remember what the values are telling you. If it's velocity over time, then it's [[Acceleration|acceleration]], for instance.
+
+# Freefall
+
+![[Freefall]]
+
+# Vertical throw
+
+![[Vertical throw]]
+
+# Horizontal projectile
+
+![[Horizontal projectile]]
+
+# Projectile motion
+
+![[Projectile motion]]

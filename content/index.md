@@ -14,6 +14,7 @@ Como son mis apuntes, solo tengo notas de materias que yo llevo (perdón biologe
 - [[English A]]
 - [[Español]]
 - [[Physics]]
+- [[Computer Science]]
 
 Voy a ir actualizando mis apuntes conforme vaya escribiéndolos. Sé que, por lo menos hasta el momento de escribir esto, no tengo casi nada de física lol. Todo lo tengo en apuntes físicos aún. Prometo que por lo menos para los exámenes IB, ya va a estar completo todo.
 

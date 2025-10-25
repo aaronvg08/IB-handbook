@@ -4,22 +4,7 @@ $$
 \vec{A}=15i+10j
 $$
 
-```tikz
-\begin{document}
-  \begin{tikzpicture}[domain=0:4]
-    \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9);
-    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
-    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$y$};
-    
-    \draw[->] (0.2, 0.5) -- (3, 0.5);
-    \draw[->] (3, 0.6) -- (3,2.8);
-    \draw[->, thick] (0.2, 0.5) -- (3, 3);
-    
-    \draw (2, 0.3) node [black] {\textbf{$i=15$}};
-    \draw (3.7, 2) node [black] {\textbf{$j=10$}};
-  \end{tikzpicture}
-\end{document}
-```
+![[rectangular form.png|center|200]]
 
 > [!note]
 > In rectangular form, $i=x$ and $j=y$. (As in, (x, y))

@@ -24,7 +24,6 @@ Are directly involved inside the organization.
 - Employees (workers)
 - Shareholders (owners of company)
 - Customers
-- Employees
 - Owners
 
 # Stakeholder alignment

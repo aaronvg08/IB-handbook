@@ -11,7 +11,7 @@ Key components in the CPU include:
 - [[Arithmetic Logic Unit (ALU)]].
 - [[Control Unit (CU)]].
 
-# Registers
+## Registers
 
 A register is a small-capacity, very fast storage location available within the [[Control Unit (CU)|CU]] used to store data temporarily during the execution of programs. It can hold instructions, storage addresses, or [[Data Types|data]]. There are the following registers:
 
@@ -21,7 +21,7 @@ A register is a small-capacity, very fast storage location available within the 
 - [[Memory Data Register (MDR)]].
 - [[Accumulator (AC)]].
 
-# Buses
+## Buses
 
 A bus is a shared communication pathway which transfers data between components in a computer. Buses connect with a CPU and other components. They include the following:
 

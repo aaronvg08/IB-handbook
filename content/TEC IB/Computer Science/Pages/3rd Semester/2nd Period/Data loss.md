@@ -38,7 +38,7 @@ In the case of system or hard drive crashes, data can be lost forever, or inacce
 
 There are also some other, more specific ways to prevent it:
 
-- [[Redundancy]]
+- [[Redundancy (data loss)]]
 - [[Failover system]]
 - [[Removable media]]
 - [[Switchover]]

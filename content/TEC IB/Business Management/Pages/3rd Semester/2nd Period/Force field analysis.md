@@ -1,27 +1,20 @@
-# Kurt Lewin
+The force field analysis is a business tool that studies the factors that support or promote change in a business, and those that oppose or resist change. Each force is assigned a number from 1 to 5, which indicates whether the force is relatively powerful (5), or weak (1).
 
-- This is also known as driving forces and restraining forces. It was put forward by Kurt Lewin in his force field analysis model.
+![[force field analysis.png|center|550]]
 
-# Definition
+Once the diagram is complete, it is possible to identify which elements need to be modified in order to create change. Driving forces can be reinforced and restraining forces can be weakened. This will make it more likely that the desired change will occur.
 
-It examines the forces that drive change and the forces that resist change. It shows the relative weigh of the forces for and against.
+| Advantages                                                                                                     | Limitations                                                                                  |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Graphic representation of complex information. Easy to understand                                              | Requires weights for qualitative factors. They may be biased, and need evidence to be valid. |
+| Helps develop better understanding of [[Stakeholders\|stakeholders]] and other factors that may rpevent change | Depicting [[Stakeholders\|stakeholders]] as restraining forces may cause conflict.           |
 
 # Example
 
-## Decision
+A new company is investing in some new and sophisticated IT software to be more efficient in their operations. Some employees may resist using the new equipment and insist that the old system works better. How can managers encourage employees to adopt the new technology?
 
-Whether to introduce new technology to a company.
+We apply the force field analysis, as seen below.
 
-## Forces for
+![[force field analysis example.png|center|550]]
 
-- Need to be more competitive to keep prices down. **Weighting 3.**
-- Need more flexibility and speed of production to match competitors. **Weighting 4.**
-
-$3 + 4 = 7$ **total**
-## Forces against
-
-- Employee resistance to job losses. **Weighting 4.**
-- Cost of equipment and training. **Weighting 3.**
-- Disruption to production while changes are made so lost income. **Weighting 1.**
-
-$4 + 3 + 1 = 8$ **total**
+According to the weights given in the diagram, driving forces are 7 while the restraining forces are 16. After carrying out the analysis, managers can consider how to amplify the driving forces and lessen the weight of the restraining forces.

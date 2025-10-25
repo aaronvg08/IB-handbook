@@ -1,0 +1,3 @@
+A business merger refers to a situation where two businesses agree to combine and become a single business. A merger may occur between firms that are considered equals in terms of power, where both businesses make changes to accommodate the fusion. But they can also occur between firms that are not equals, where one business dominates and requires that the other business change more substantially in the merger process.
+
+![[business merger.png|center|500]]

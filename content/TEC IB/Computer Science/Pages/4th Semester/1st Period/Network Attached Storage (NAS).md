@@ -1,4 +1,4 @@
-Network Attached Storage (NAS) are devices that provide centralized storage for multiple devices on a network. NAS devices are typically connected to a router, and they can be accessed by any devices on the network. They are ideal for sharing files, backing up data and storing media files.
+Network Attached Storage (NAS) are devices that provide centralized storage for multiple devices on a network. NAS devices are typically connected to a router, and they can be accessed by any devices on the [[Networks|network]]. They are ideal for sharing files, backing up data and storing media files.
 
 > [!important] Like your own server for backing up data!
 

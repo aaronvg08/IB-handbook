@@ -10,3 +10,4 @@ There is also terminology when the system tries to reach for data in the cache:
 
 - **Cache hit**: The information the machine is looking for is found inside the cache.
 - **Cache miss**: The information the machine is looking for isn't found inside the cache, and it needs to search in the RAM, ROM, and other memory.
+- **Prefetching**: Means getting data or instructions from memory into the cache before they are actually needed.
