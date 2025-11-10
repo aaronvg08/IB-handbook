@@ -1,0 +1,1 @@
+A Media Access Control (MAC) address is a unique 48-[[Bit|bit]] identifier that is assigned to each device on its [[Network Interface Card (NIC)]]. It is a set of information that includes location, manufacturing information, device type, etc.

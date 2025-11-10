@@ -11,7 +11,7 @@ A VPN can function over unlimited distances since it uses the internet to create
 - **VPN Protocols**: Rules and standards to transmit data over the VPN.
 	- **IPsec (Internet Protocol Security)**: Authenticates and encrypts each packet.
 	- **SSL/TLS (Secure Sockets Layer / Transport Layer Security)**: Provides a secure tunnel through which data can be transmitted.
-- **Tunneling**: Encapsulates a network packet inside another. It creates a "tunnel" through the public internet, making the connection appear to be a private network link by hiding the original IP addresses and encrypting the data.
+- **Tunneling**: Encapsulates a network packet inside another. It creates a "tunnel" through the public internet, making the connection appear to be a private network link by hiding the original [[Internet Protocol (IP) address|IP addresses]] and encrypting the data.
 
 >[!tldr]
 >Tunneling is like wearing a disguise.

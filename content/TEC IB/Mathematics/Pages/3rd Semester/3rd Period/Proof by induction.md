@@ -1,4 +1,4 @@
-Mathematical induction is a method of [[Proof|proof]] that is used to establish that a statement is true for all integer numbers. The main idea is that you assume that the statement is true for some integer number. Then you show, that if it is true for that natural number, then it is true for the next. And so on, and so on. Like dominoes, the statement is proved for all numbers.
+Mathematical induction is a method of [[Proof|proof]] that is used to establish that a statement is true for all integer numbers. The main idea is that you assume that the statement is true for some integer number. Then you show that, if it is true for that natural number, then it is true for the next. And so on, and so on. Like dominoes, the statement is proved for all numbers.
 
 
 ![[proof by induction.png|center|450]]

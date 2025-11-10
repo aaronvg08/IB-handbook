@@ -1,4 +1,4 @@
-A decision tree, also called a probability tree, is a visual decision-making toolkit that helps businesses evaluate different options by estimating values and probabilities.
+e|A decision tree, also called a probability tree, is a visual decision-making toolkit that helps businesses evaluate different options by estimating values and probabilities.
 
 In order to make a decision tree, you need to do the following:
 
