@@ -1,7 +1,7 @@
 06/10/2025
 # Hola :)
 
-Éste sitio es un proyecto que he tenido desde inicios de 5to semestre. Me di cuenta que estudiar para los quizzes y exámenes que tienen contenido de todo el IB es muy difícil porque tengo todos mis apuntes revueltos y en como 7 libretas diferentes. También como algunos de los temas en IB son acumulativos (vez algo de un tema y después vez otra cosa del mismo tema el siguiente semestre), todavía está más desorganizado y está horrible D:
+Este sitio es un proyecto que he tenido desde inicios de 5to semestre. Me di cuenta que estudiar para los quizzes y exámenes que tienen contenido de todo el IB es muy difícil porque tengo todos mis apuntes revueltos y en como 7 libretas diferentes. También como algunos de los temas en IB son acumulativos (vez algo de un tema y después vez otra cosa del mismo tema el siguiente semestre), todavía está más desorganizado y está horrible D:
 
 Pensé que estaría terrible hacer esto cada vez que tenga que tener examen, y peor aún, que cuando sean los exámenes IB tenga más de 20 libretas con todos los apuntes revueltos y en hojas sueltas. Entonces, decidí copiar todos mis apuntes desde 3er semestre en un programa que se llama [obsidian](https://obsidian.md/). Es básicamente una aplicación para apuntes en dónde puedes hacer conexiones entre notas, y hacerlo como si fuera tu propio Wikipedia. La recomiendo mucho para materias como business donde hay definiciones y conceptos que aparecen a cada rato.
 
