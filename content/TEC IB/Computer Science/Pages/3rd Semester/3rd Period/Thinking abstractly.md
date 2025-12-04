@@ -18,6 +18,6 @@ Sometimes, when solving a problem, it's better to get rid of everything that we 
 
 There are multiple uses of abstraction in our everyday lives.
 
-- A **thematic map** is an abstraction of reality that shows spatial distirbution and emphasizes a particular theme, such as the average distribution of income in a specific geographic area.
+- A **thematic map** is an abstraction of reality that shows spatial distribution and emphasizes a particular theme, such as the average distribution of income in a specific geographic area.
 - **Topographic maps** show abstractions of selected physical features of the three-dimensional real world at a reduced scale in two-dimensions, paper, or a screen.
 - **Political maps** are designed to show on data such as the boundaries of countries and states and the locations of major cities. These maps are an abstraction of political territory.

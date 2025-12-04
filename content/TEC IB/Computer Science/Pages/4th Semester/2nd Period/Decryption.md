@@ -1,4 +1,4 @@
-Decryption in [[Cryptography|cryptography]] is the way in which we turn [[Encryption|encrypted]] messages back into their original form. Modern day decryption involves a key, which is normally a string or a character, that is passed through an [[XOR]] of the encrypted message to decrypt it.
+Decryption in [[Cryptography|cryptography]] is the way in which we turn [[Encryption|encrypted]] messages back into their original form. Modern day decryption involves a key, which is normally a string or a character, that is passed through an [[NOR]] of the encrypted message to decrypt it.
 
 # Example
 
@@ -8,7 +8,7 @@ $$
 00000010\;\;00100001
 $$
 
-We have the key! Which in this case is the character "c" in lowercase. In ASCII, this is 01100011. In order to decrypt this message with the key, we pass every encrypted character through the ASCII code of the key through an [[XOR]]. Here, let's place both character's ASCIIs over the key's ASCII.
+We have the key! Which in this case is the character "c" in lowercase. In ASCII, this is 01100011. In order to decrypt this message with the key, we pass every encrypted character through the ASCII code of the key through an [[NOR]]. Here, let's place both character's ASCIIs over the key's ASCII.
 
 $$
 \begin{matrix}
@@ -32,4 +32,4 @@ $$
 And there is our decrypted message! 01100001 01000010. This is "aB".
 
 >[!note]
->Since we decrypt and encrypt with [[XOR]], it means that XOR is an operation that reverses itself!
+>Since we decrypt and encrypt with [[NOR]], it means that XOR is an operation that reverses itself!

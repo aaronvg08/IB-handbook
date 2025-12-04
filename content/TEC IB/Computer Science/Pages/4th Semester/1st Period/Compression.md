@@ -1,4 +1,4 @@
-Compression is the process of reducing the size of data to allow for more efficient storage and faster transmission over networks. Compression can significantly decrease the amount of disk space needed for files and the bandwidth required for transferring them, facilitating more efficient use of resources.
+Compression is the process of reducing the size of data to allow for more efficient storage and faster transmission over [[Networks|networks]]. Compression can significantly decrease the amount of disk space needed for files and the bandwidth required for transferring them, facilitating more efficient use of resources.
 
 It's a good idea to compress data. In general, the more storage you need, the more expensive it is. Network speed can be metered, meaning you pay for what you use. So compression can save money.
 

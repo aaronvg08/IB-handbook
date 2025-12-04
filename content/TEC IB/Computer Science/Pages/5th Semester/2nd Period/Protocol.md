@@ -10,25 +10,20 @@ Data packets are sent through there phases:
 
 # User Datagram Protocol (UDP)
 
-The User Datagram Protocol (UDP) is a [[Protocol|protocol]] for [[Networks|networks]] that is fast and connectionless. There is no guarantee that the data is received properly or completely. This is used for streaming video where maintaining broadcast is more important than keeping detail.
-
->[!warning]
->There is no verification since it is used for non-sensitive transmission.
+![[User Datagram Protocol (UDP)]]
 
 # Transmission Control Protocol (TCP)
 
-The Transmission Control Protocol (TCP) is a [[Protocol|protocol]] for [[Networks|networks]]. It establishes and maintains an active connection with the remote server until the application programs have finished exchanging information.
+![[Transmission Control Protocol (TCP)]]
 
-Some common applications for the TCP are:
+# Hypertext Transfer Protocol (HTTP)
 
-- Simple Mail Transfer Protocol **(SMTP)**: port 587.
-- Hypertext Transfer Protocol **(HTPP)**: port 80.
-- Hypertext Transfer Protocol Secure **(HTTPS)**: port 443.
-- Secure Shell **(SSH)**: port 22.
-- Dynamic Host Configuration Protocol **(DHCP)**: port 68.
+![[Hypertext Transfer Protocol (HTTP)]]
 
->[!note]
->There is a constant connection between the two machines and there is a constant exchange of information and verification between the two.
+# Hypertext Transfer Protocol Secure (HTTPS)
 
+![[Hypertext Transfer Protocol Secure (HTTPS)]]
 
+# Dynamic Host Configuration Protocol (DHCP)
 
+![[Dynamic Host Configuration Protocol (DHCP)]]

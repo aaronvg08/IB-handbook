@@ -1,4 +1,4 @@
-Image rendering is one of the responsibilities of the [[Operating system (OS)|operating system (OS)]] in a machine. It is the means in which the system displays an image and [[Rendering|renders]] it for the user to see.
+Image rendering is one of the responsibilities of the [[Operating system (OS)|operating system (OS)]] in a machine. It is the means in which the system displays an image and renders it for the user to see.
 
 There are a couple of terms related to images that you must know.
 

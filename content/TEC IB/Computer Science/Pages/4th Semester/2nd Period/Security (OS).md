@@ -3,4 +3,4 @@ Security in the context of [[Operating system (OS)|operating systems]] is the re
 - **User authentication**: Requires credentials (tokens, pws, biometric) to access sensible files, or the system as a whole.
 - **[[Encryption]]**: When read data requires a key to be logical.
 - **Auditing and monitoring**: Records and logs of a system to detect suspicious activities.
-- **Malware protection**: Mechanisms to detect malware and intruders (firewalls and intrusions detection system IDS)
+- **Malware protection**: Mechanisms to detect [[Malware|malware]] and intruders ([[Firewall|firewalls]] and intrusions detection system IDS)

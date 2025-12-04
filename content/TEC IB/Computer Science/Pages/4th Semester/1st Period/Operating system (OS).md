@@ -1,4 +1,4 @@
-An operating system is crucial system software the manages all hardware and software resources on a computer. It is an intermediary between the computer's hardware and the user.
+An operating system is crucial system [[Software|software]] the manages all [[Hardware|hardware]] and software resources on a computer. It is an intermediary between the computer's hardware and the user.
 
 ![[os sequence.png|center|200]]
 

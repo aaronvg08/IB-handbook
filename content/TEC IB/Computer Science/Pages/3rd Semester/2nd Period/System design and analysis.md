@@ -130,7 +130,7 @@ Computers can assume several roles in a networked world. It can function as a cl
 
 - [[Dumb terminal]]
 - [[Thin client]]
-- [[Client & server]]
+- [[Client-server|Client & server]]
 - [[Email server]]
 - [[Router]]
 - [[Domain Name System server (DNS server)]]

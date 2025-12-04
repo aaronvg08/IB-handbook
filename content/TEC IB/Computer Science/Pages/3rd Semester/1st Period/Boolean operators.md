@@ -9,11 +9,11 @@ The logical operations are carried out by the 6(3) Boolean Operators we have:
 - [[NOT]]
 - [[NAND]]
 - [[NOR]]
-- [[XOR]]
+- [[NOR]]
 - [[XNOR]]
 
 > [!important]
->  When solving boolean operators, you **always** go left from right, unlike in math.
+>  When solving boolean operators, you **always** go right to left, unlike in math.
 
 > [!note] 
 > NAND, NOR, XOR and XNOR can all be represented only using AND, OR, and NOT.

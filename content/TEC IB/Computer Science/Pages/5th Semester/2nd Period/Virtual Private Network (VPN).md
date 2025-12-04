@@ -6,7 +6,7 @@ The primary goal of a VPN is to provide secure remote access to a private networ
 
 # Technologies
 
-A VPN can function over unlimited distances since it uses the internet to create a secure and encrypted connection between devices and the private network. This encryption ensures that data transmitted over the VPN is protected from unauthorized access.
+A VPN can function over unlimited distances since it uses the [[Internet|internet]] to create a secure and encrypted connection between devices and the private network. This encryption ensures that data transmitted over the VPN is protected from unauthorized access.
 
 - **VPN Protocols**: Rules and standards to transmit data over the VPN.
 	- **IPsec (Internet Protocol Security)**: Authenticates and encrypts each packet.

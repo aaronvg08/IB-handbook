@@ -38,4 +38,4 @@ Each processing unit is called a core. For each core, you can do a task. Having 
 
 - **Single-core processors:** It can only do one task at the time. Struggles with [[Parallel processing|parallel processing]]. Common in old machines, but outdated [[Architecture|architecture]] nowadays.
 - **Multi-core processors**: It has two or more cores to run instructions simultaneously, and allows for pipelining. Faster and great for multitasking and gaming.
-- **Co-processors:** Is a processor designed and specialized to do a specific task really fast, such as graphics [[Rendering|rendering]].
+- **Co-processors:** Is a processor designed and specialized to do a specific task really fast, such as [[Image rendering|graphics rendering]].
