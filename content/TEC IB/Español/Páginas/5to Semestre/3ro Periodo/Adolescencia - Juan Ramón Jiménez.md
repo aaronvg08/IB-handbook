@@ -34,7 +34,7 @@ de sus ojos melancólicos.
 
 - El título índica un tono juvenil y una retrospectiva o medication de eventos pasados. 
 - El poema está en un formato de verso con solamente dos estrofas y un verso más largo que el otro.
-- Hay una orientación del teto centrado en el medio del texto.
+- Hay una orientación del texto centrado en el medio del texto.
 
 ## Rima y Métrica
 

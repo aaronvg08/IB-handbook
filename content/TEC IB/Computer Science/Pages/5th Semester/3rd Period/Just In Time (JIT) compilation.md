@@ -1,0 +1,1 @@
+Just In Time (JIT) compilation is a technique used by a compiler that combines elements of both interpreters and compilers as a whole. The source code of a program is compiled into [[Bytecode|bytecode]] by classes or segments and is interpreted by a virtual machine each time the program is run.

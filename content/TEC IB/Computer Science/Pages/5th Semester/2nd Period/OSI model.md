@@ -3,7 +3,7 @@ The OSI model is a model that helps us understand how data travels on a network 
 ![[osi model.png|center|400]]
 
 - **Application**: Makes the data usable to the user. Allows interacting and communicating with the program.
-- **Presentation**: Configures data into an acceptable format via translation, [[Encryption|encryption]], and [[Compression|compression]]. It makes data readable to the user.
+- **Presentation**: Configures data into an acceptable format via [[Translation|translation]], [[Encryption|encryption]], and [[Compression|compression]]. It makes data readable to the user.
 - **Session**: Manages opening and closing connections between and from multiple devices.
 - **Transport**: Handles data transmission between devices using UDP and TCP protocols. Establishes the rule of data transmission.
 - **Network**: Conducts routing between different networks, determining the most efficient path to transfer the information from point A to point B.

@@ -76,7 +76,7 @@ $$
 # Operations
 ## Multiplication
 
-When you multiply a [[Vectors (math)|vector]], you are changing its magnitude in some way. There are two ways you can multiply a vector, by a scalar, or by another vector. Though these are normally called the [[Scalar product|scalar]] and [[Vectorial product|vectorial]] products.
+When you multiply a [[Vectors (math)|vector]], you are changing its magnitude in some way. There are two ways you can multiply a vector, by a scalar, or by another vector. Though these are normally called the [[Scalar product|scalar]] and [[Cross product|vectorial]] products.
 
 Multiplying a vector by a scalar $k$ changes its magnitude. In the same direction if $k>0$, or in the opposite if $k<0$.
 

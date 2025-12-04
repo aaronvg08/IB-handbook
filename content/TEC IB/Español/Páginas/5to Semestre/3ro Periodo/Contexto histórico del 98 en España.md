@@ -52,3 +52,14 @@ En Europa, el feminismo moderno comienza a tomar fuerza. Sin embargo, en España
 # Contexto filosófico
 
 Unamuno rompe las normas de la novela realista. Crea el término para una forma narrativa más libre, más cercana al pensamiento, reflexión y paradoja que a la trama.
+
+- Ruptura de fronteras entre ficción y realidad que supone una reflexión filosófica sobre la existencia y la creación.
+- Søren Kierkegaard fue considerado el primer filósofo existencialistas. Defiende que la existencia humana es singular, concreta, y angustiosa. El dilema en el ser humano es cómo vivir auténticamente.
+- Friederich Nietzsche critica la religión tradicional y proclama la "muerte de Dios" (el colapso de los valores absolutos). Desconfía de la moral cristiana y la considera una negación de la vida.
+- René Descartes es el padre del racionalismo moderno que propuso la duda metódica. Duda de que todo puede ser falso, y declara que "Pienso, luego existo".
+
+# Glosario
+
+- **Existencialismo**: Corriente filosófica centrada en la libertad, la responsabilidad individual y el sentido de la vida. Unamuno es un precursor del existencialismo europeo.
+- **Metaficción**: Técnica narrativa en la que el autor o el narrador reflexionan sobre el propio proceso de creación. Borra los límites entre realidad y ficción.
+- **Desdoblamiento**: proceso en el que un personaje se divide o se enfrenta a otra parte de sí mismo o a su creador. Representa la conciencia de existir.

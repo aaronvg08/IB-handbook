@@ -69,3 +69,14 @@ A network's size changes its name. Going from smaller to bigger, these are the s
 
 ![[Firewall]]
 
+# Architecture
+
+![[Architecture]]
+
+# Protocol
+
+![[Protocol]]
+
+# Data transmission
+
+![[Data transmission]]

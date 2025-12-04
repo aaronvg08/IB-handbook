@@ -1,4 +1,4 @@
-	Efficiency ratios are a way to measure a business' capability to manage their operations and work in their everyday cycle. 
+Efficiency ratios are a way to measure a business' capability to manage their operations and work in their everyday cycle. 
 
 # Stock turnover ratio
 

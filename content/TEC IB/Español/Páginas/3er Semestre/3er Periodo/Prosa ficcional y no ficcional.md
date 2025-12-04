@@ -1,34 +1,3 @@
-- [[#Prosa]]
-- [[#Tipos de prosa]]
-    - [[#Prosa ficcional]]
-    - [[#Prosa no ficcional]]
-- [[#Elementos (Prosa ficcional)]]
-    - [[#Contexto]]
-    - [[#Estructura]]
-    - [[#Ambientación]]
-        - [[#Espacio]]
-        - [[#Tiempo]]
-    - [[#Narrador externo]]
-        - [[#Omnisciente]]
-        - [[#Objetivo]]
-    - [[#Conclusión]]
-    - [[#Autor y género]]
-    - [[#Descripción]]
-    - [[#Tema]]
-    - [[#Personajes]]
-    - [[#Narrador interno]]
-        - [[#Protagonista]]
-        - [[#Testigo]]
-        - [[#Deficiente]]
-    - [[#Recursos estilísticos]]
-        - [[#Figuras retóricas]]
-        - [[#Formas de narración]]
-        - [[#Vocabulario]]
-    - [[#Ficha bibliográfica]]
-- [[#Elementos (Prosa no ficcional)]]
-
----
-
 # Prosa
 
 La prosa consiste en una forma específica de escritura, que plasma ideas una tras otra de modo consecutivo, coherente y cohesionado. Forma oraciones y párrafos, en lugar de los versos y estrofas de la poesía.
@@ -80,13 +49,9 @@ Examina en cuántas partes se podría dividir el relato. Existen varios tipos de
 ### Tiempo
 
 - **Lineal**
-    
-    Cuando toda la acción se desarrolla siguiendo una secuencia cronológica lineal, sin regresiones ni anticipaciones temporales.
-    
+	- Cuando toda la acción se desarrolla siguiendo una secuencia cronológica lineal, sin regresiones ni anticipaciones temporales.
 - **Simultaneo**
-    
-    Cuando se presentan dos o más acciones de manera paralela.
-    
+	- Cuando se presentan dos o más acciones de manera paralela.
 - **Discontinuo**
     - La acción se narra siguiendo una cadena temporal no lineal, incluyendo saltos cronológicos como:
         - **Retroespectiva o flashback:** El narrador interrumpe la acción y retrocede en el tiempo para presentar acciones ya pasadas.
@@ -119,13 +84,11 @@ La interpretación, por lo tanto, se puede ir construyendo a lo largo del análi
 - Nombre delautor. Otros trabajos que han hecho, etc.
 - Novela, cuento, microrrelato, fábula, leyenda.
 
-  
-
 ## Descripción
 
 La descripción implica detalles relevantes del texto. Puede mencionar aspectos vinculados con el tema, los personajes, la ambientación, la estructura o el argumento.
 
-## **Tema**
+## Tema
 
 - El tema se refiere lo que se trata en la obra.
 - Es la idea principal del relato.
@@ -134,37 +97,21 @@ La descripción implica detalles relevantes del texto. Puede mencionar aspectos 
 ## Personajes
 
 - **Protagonista**
-    
-    También conocido como personaje principal, es aquel personaje en torno al cual gira toda la acción
-    
+	- También conocido como personaje principal, es aquel personaje en torno al cual gira toda la acción
 - **Antagonista**
-    
-    Opuesto al protagonista: su función suele ser la de resaltar vicios, virtudes o rasgos peculiares del protagonista a partir del contraste entre las personalidades y acción de ambos.
-    
+	- Opuesto al protagonista: su función suele ser la de resaltar vicios, virtudes o rasgos peculiares del protagonista a partir del contraste entre las personalidades y acción de ambos.
 - **Secundario**
-    
-    Personajes adjuntos que ayudan o se oponen al protagonista. Son personajes próximos al protagonista cuyas acciones y parlamentos son relevantes para las lineas auxiliares del desarollo del argumento.
-    
+	- Personajes adjuntos que ayudan o se oponen al protagonista. Son personajes próximos al protagonista cuyas acciones y parlamentos son relevantes para las lineas auxiliares del desarollo del argumento.
 - **Terciario**
-    
-    También conocidos como circunstancial o figurantes, son personajes que no afecta de manera esencial en el desarrollo de la acción
-    
+	- También conocidos como circunstancial o figurantes, son personajes que no afecta de manera esencial en el desarrollo de la acción
 - **Planos**
-    
-    Tipo de personaje que no tiene una evolución en la historia y se comporta igual de inicio a fin.
-    
+	- Tipo de personaje que no tiene una evolución en la historia y se comporta igual de inicio a fin.
 - **Redondos**
-    
-    Son complejos y tienen el objetivo de generar interés en lector.
-    
+	- Son complejos y tienen el objetivo de generar interés en lector.
 - **Arquetipo**
-    
-    No es necesario una gran descripción de su personalidad ya que es fácilmente identificable.
-    
+	- No es necesario una gran descripción de su personalidad ya que es fácilmente identificable.
 - **Caricaturescos**
-    
-    Son personajes que hacen crítica social sobre un tema de importancia. Exageran características de personajes reales, ficticios o su comportamiento.
-    
+	- Son personajes que hacen crítica social sobre un tema de importancia. Exageran características de personajes reales, ficticios o su comportamiento.
 
 ## Narrador interno
 
@@ -195,29 +142,24 @@ Se le conoce como deficiente puesto que tiene a omitir información, incluso eng
 
 ### Figuras retóricas
 
+![[Figura retórica]]
+
 ### Formas de narración
 
 - **Relato**
-    
-    Se narran hechos y acciones, buscando énfasis en las emociones, pensamientos o atmósfera. Se cuenta una historia.
-    
+	- Se narran hechos y acciones, buscando énfasis en las emociones, pensamientos o atmósfera. Se cuenta una historia.
 - **Descripción**
     - **Objetiva:** el narrador informa sobre las características de los objetos, lugares, y personajes de manera objetiva, sin comentarios ni valoraciones personales.
     - **Subjetiva:** las características de los objetos, lugares y personajes suelen ser presentadas por un narrador omnisciente que deja entrever su valoración personal de los mismos.
 - **Discurso**
     - Diálogo
-        
         Reproduce el intercambio de palabras de dos o más personajes en los siguientes estilos:
-        
         - Estilo directo (en boca de los personajes).
         - Estilo indirecto (explicado por el narrador).
     - Monólogo
-        
-        Reproduce el discurso, más bien largo, de un solo personaje en estilo directo.
-        
+	    - Reproduce el discurso, más bien largo, de un solo personaje en estilo directo.
     - Monólogo interior
-        
-        Reproduce los pensamientos de un personaje a medida que los va formulando en su mente.
+	    - Reproduce los pensamientos de un personaje a medida que los va formulando en su mente.
         
 
 ### Vocabulario

@@ -51,3 +51,7 @@
 - [[Trace table]]
 - [[Abstract data structures]] (HL except [[Array|arrays]])
 - [[Networks]]
+
+## 3rd Period
+
+- [[Translation]]
